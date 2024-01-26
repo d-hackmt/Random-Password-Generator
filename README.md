@@ -1,1 +1,2 @@
-# Random-Password-Generator
+# Password-Generator
+Suggests a strong password 
